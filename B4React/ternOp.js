@@ -1,5 +1,5 @@
-// A normal if else 
 
+// A normal if else 
 let checkQuality = (quality) => {
     if (quality > 50) {
         console.log("This is a good quality");
