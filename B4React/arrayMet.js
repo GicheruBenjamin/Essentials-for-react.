@@ -11,5 +11,5 @@ let totalAgesReduce = ages.reduce((total, age) => total + (age - 4), 0);
 console.log(totalAgesReduce);
 
 // Filter
-let filteredAges = ages.filter(age => age > 4);
+let filteredAges = ages.filter(age => age > 30);
 console.log(filteredAges);

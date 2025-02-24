@@ -1,3 +1,5 @@
 // An array of people
-export const people = ['Solomon', 'David', 'Brian', 'Simon','Zipporah'];
+
+const people = ["Jena", "Cole", "Jenny", "Jena"];
+export { people };
 //Export keyword used to allow other modules to use it.
